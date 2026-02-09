@@ -63,7 +63,7 @@ Luego, en el `pom.xml` de tu proyecto, agrega la siguiente dependencia:
 <dependency>
     <groupId>com.obed</groupId>
     <artifactId>notification-lib</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
 </dependency>
 ```
 
@@ -146,4 +146,4 @@ El proyecto sigue los principios SOLID y una arquitectura de Puertos y Adaptador
 La librería incluye pruebas unitarias utilizando JUnit 5 y Mockito para garantizar la calidad del código. Se prueban tanto las validaciones de dominio como las interacciones con los adaptadores, asegurando que los casos de éxito y error se manejen correctamente.
 
 ## Autor
-**Obed Navarrete** - [GitHub](
+**Obed Navarrete** - [GitHub](https://github.com/obed-navarreted)
